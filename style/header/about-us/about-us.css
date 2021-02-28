@@ -1,0 +1,38 @@
+.about-us{
+  height: 768px;
+
+  background: url("../../../src/img/header_picture.svg") no-repeat right,
+  linear-gradient(0deg, #98C3E8 -30.84%, rgba(152, 195, 232, 0) 31.12%);
+}
+
+.about-us__info{
+  padding-top: 39px;
+  padding-left: 192px;
+  width: 540px;
+
+  font-family: 'Gilroy';
+}
+
+.about-us__info_title{
+  font-size: 58px;
+  line-height: 74px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+}
+
+.about-us__info_text{
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+}
+
+.about-us__button{
+  margin-top: 72px;
+
+  width: 220px;
+  height: 56px;
+  background-color: #5A98D0;
+
+  font-weight: 200;
+  color: #fff;
+}

@@ -1,0 +1,23 @@
+.button{
+  display: inline-block;
+  border: none;
+
+  font-family: "Gilroy";
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  animation: 0.5s ease-in 0.5s;
+}
+
+.button_rounded{
+  border-radius: 5px;
+}
+
+/* TODO: Сделать hover-кнопки */
+
+.button:hover{
+  box-shadow: rgb(90, 152, 208) 1px 3px 4px;
+  animation: 0.5s ease-in-out 0.5s;
+}

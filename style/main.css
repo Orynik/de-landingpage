@@ -42,3 +42,7 @@
   url("../src/fonts/Gilroy-Light.ttf") format("truetype");
   font-weight: 200;
 }
+
+body{
+  margin: 0;
+}
